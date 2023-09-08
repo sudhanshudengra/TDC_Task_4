@@ -1,0 +1,17 @@
+{
+  "name": "task_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "index.js": "^0.0.3",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^21.1.1"
+  }
+}
